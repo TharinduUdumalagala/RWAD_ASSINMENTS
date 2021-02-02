@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Assigment_01/Assigment_01.iml" filepath="$PROJECT_DIR$/Assigment_01/Assigment_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assigment_02/Assigment_02.iml" filepath="$PROJECT_DIR$/Assigment_02/Assigment_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assigment_03/Assigment_03.iml" filepath="$PROJECT_DIR$/Assigment_03/Assigment_03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment_04/Assignment_04.iml" filepath="$PROJECT_DIR$/Assignment_04/Assignment_04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment_05/Assignment_05.iml" filepath="$PROJECT_DIR$/Assignment_05/Assignment_05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment_06/Assignment_06.iml" filepath="$PROJECT_DIR$/Assignment_06/Assignment_06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment_07/Assignment_07.iml" filepath="$PROJECT_DIR$/Assignment_07/Assignment_07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RWAD_Assignments_All.iml" filepath="$PROJECT_DIR$/RWAD_Assignments_All.iml" />
+    </modules>
+  </component>
+</project>
